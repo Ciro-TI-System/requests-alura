@@ -1,0 +1,39 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "titulo": "Conhecendo a linguagem Go | Hipsters.Talks",
+      "descricao": "3 mil visualizações",
+      "url": "https://www.youtube.com/embed/y8FeZMv37WU",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "id": "2",
+      "titulo": "Desmistificando mobile - Linguagens e Frameworks",
+      "descricao": "1,5 mil visualizações",
+      "url": "https://www.youtube.com/embed/fmu1LQvZhms",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "id": "3",
+      "titulo": "Orientação a objetos com Roberta Arcoverde | #Hipster...",
+      "descricao": "30 mil visualizações",
+      "url": "https://www.youtube.com/embed/jpuJ1qrluoU",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "id": "4",
+      "titulo": "Linguagens e ferramentas usadas em Ciência de Dados...",
+      "descricao": "2,5 mil visualizações",
+      "url": "https://www.youtube.com/embed/h83e1aAM5xQ",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "titulo": "Acessibilidade Web com Charles Assunção | #HipstersPontoTube",
+      "descricao": "1 mil visualizações",
+      "url": "https://www.youtube.com/embed/gnO_6NDfQHI",
+      "imagem": "https://yt3.ggpht.com/W7GokEE6ydjZFa_Tpz6yvSsDlVPTe7d4yTsJqKXy1Gbhu1BGXCfKJ_I-_TzOq37m8R9S97kQ=s48-c-k-c0x00ffffff-no-rj",
+      "id": "uoqmxLR"
+    }
+  ]
+}
